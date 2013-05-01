@@ -1,4 +1,5 @@
-1367439575
+1367441794
+AddPaperclipFieldsToArticle	/home/pawel/repo/blogger/db/migrate/20130501203436_add_paperclip_fields_to_article.rb	class AddPaperclipFieldsToArticle 
 Application	/home/pawel/repo/blogger/config/application.rb	  class Application 
 ApplicationController	/home/pawel/repo/blogger/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/home/pawel/repo/blogger/app/helpers/application_helper.rb	module ApplicationHelper
@@ -33,6 +34,7 @@ change	/home/pawel/repo/blogger/db/migrate/20130430214802_create_comments.rb	  d
 change	/home/pawel/repo/blogger/db/migrate/20130430173453_create_articles.rb	  def change
 change	/home/pawel/repo/blogger/db/migrate/20130501193939_create_tags.rb	  def change
 change	/home/pawel/repo/blogger/db/migrate/20130501194110_create_taggings.rb	  def change
+change	/home/pawel/repo/blogger/db/migrate/20130501203436_add_paperclip_fields_to_article.rb	  def change
 create	/home/pawel/repo/blogger/app/controllers/comments_controller.rb		def create
 create	/home/pawel/repo/blogger/app/controllers/articles_controller.rb		def create
 destroy	/home/pawel/repo/blogger/app/controllers/articles_controller.rb		def destroy
