@@ -1,3 +1,32 @@
 --- 
-open_files: []
-
+open_files: 
+  - app/views/articles/show.html.erb
+  - app/views/comments/_form.html.erb
+  - app/views/articles/_comment.html.erb
+  - app/models/article.rb
+  - app/models/tag.rb
+  - app/models/tagging.rb
+  - app/views/articles/_form.html.erb
+  - app/models/comment.rb
+  - app/controllers/application_controller.rb
+  - app/controllers/articles_controller.rb
+  - config/routes.rb
+  - app/controllers/tags_controller.rb
+  - app/views/tags/show.html.erb
+  - app/views/tags/index.html.erb
+  - Gemfile
+  - db/migrate/20130501203436_add_paperclip_fields_to_article.rb
+  - app/assets/stylesheets/articles.css.scss
+  - app/assets/stylesheets/application.css
+  - app/assets/stylesheets/comments.css.scss
+  - app/assets/stylesheets/screen.css
+  - app/assets/stylesheets/tags.css.scss
+  - app/models/author.rb
+  - app/controllers/authors_controller.rb
+  - app/views/authors/_form.html.erb
+  - app/views/authors/show.html.erb
+  - app/views/authors/index.html.erb
+  - app/views/layouts/application.html.erb
+  - app/controllers/author_sessions_controller.rb
+  - app/views/author_sessions/new.html.erb
+  - app/views/articles/index.html.erb
